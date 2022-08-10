@@ -3,12 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Programming-School-Pro-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
 		   <img src="https://badges.pufler.dev/repos/programming-school-pro-coding" alt="Programming-School-Pro-Coding" />
-		   <img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers" alt="Programming-School-Pro-Coding" />
 		   <img src="https://badges.pufler.dev/gists/Programming-School-Pro-Coding" alt="Gists" />
 </p>
-
-<!-- <img src="standard (1).gif" align="right" width="400"/> -->
-<a href="https://app.daily.dev/Mohamed_Ehab"><img src="https://api.daily.dev/devcards/ed49ae7194bc40a298676373c974b702.png?r=jai" width="400" align="right" alt="Programming-School's Dev Card"/></a>
 
 
 ## 🙋‍♂️ About Us
