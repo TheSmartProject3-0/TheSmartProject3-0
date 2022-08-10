@@ -2,24 +2,17 @@
 <h3 align="center">Merging people to Web3</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Programming-School-Pro-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
-		   <img src="https://badges.pufler.dev/repos/programming-school-pro-coding" alt="Programming-School-Pro-Coding" />
 		   <img src="https://badges.pufler.dev/gists/Programming-School-Pro-Coding" alt="Gists" />
 </p>
 
 
 ## 🙋‍♂️ About Us
 
-
-
-
-
-
-
 ## 🚀 Languages and Tools:
 
 <!-- <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
