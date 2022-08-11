@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="The Smart Project's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=000000)](https://git.io/streak-stats"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="The Smart Project's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500)](https://git.io/streak-stats"/>
 </p>
 	
 	
