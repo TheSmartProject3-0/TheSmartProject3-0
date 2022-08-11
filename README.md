@@ -1,4 +1,6 @@
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are The Smart Project 3.0</h1>
@@ -48,8 +50,8 @@
 ## 📊 Our Github Stats
 
   <br/>
-    <a href="https://mohamed-ehab-portfolio.vercel.app" target="_blank"><img alt="Our Stats" src="https://github-readme-stats.vercel.app/api?username=Programming-School-Pro-Coding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://mohamed-ehab-portfolio.vercel.app" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-School-Pro-Coding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://mohamed-ehab-portfolio.vercel.app" target="_blank"><img alt="Our Stats" src="https://github-readme-stats.vercel.app/api?username=heSmartProject3-0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://mohamed-ehab-portfolio.vercel.app" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heSmartProject3-0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -57,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://mohamed-ehab-portfolio.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://mohamed-ehab-portfolio.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heSmartProject3-0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
