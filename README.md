@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center">
-        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500)
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500"/>
 </p>
 	
 	
