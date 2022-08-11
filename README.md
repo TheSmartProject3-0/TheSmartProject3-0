@@ -75,8 +75,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a align="center" href="https://twitter.com/Programing_Pro">![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=for-the-badge)</a>
-<a href="https://github.com/Programming-School-Pro-Coding?tab=followers"><img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
+<a href="https://twitter.com/Programing_Pro">![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=for-the-badge)</a>
+<a href="https://github.com/Programming-School-Pro-Coding?tab=followers"><img src="https://img.shields.io/github/followers/TheSmartProject3-0?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
 <a href="https://youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw"><img src="https://img.shields.io/youtube/channel/views/UC1YTVmV31RZV2oie1kKpJkw?color=%23333333&label=Programming%20School&style=for-the-badge" /></a>
 
 ## :trophy: Git profile Trophies
