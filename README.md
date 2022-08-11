@@ -1,4 +1,4 @@
-                                                   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSmartProject3-0&theme=react&ring=DCD500&stroke=DCD500&fire=DCD500&currStreakNum=FFF700&sideNums=FFF700&dates=DCD500)](https://git.io/streak-stats)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, We are The Smart Project 3.0</h1>
