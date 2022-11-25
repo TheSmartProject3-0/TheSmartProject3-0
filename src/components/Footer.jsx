@@ -1,5 +1,10 @@
 import React from 'react'
 import { Footer } from 'flowbite-react/lib/cjs/components/Footer'
+import GitHubIcon from '@mui/icons-material/GitHub'
+import TwitterIcon from '@mui/icons-material/Twitter'
+import InstagramIcon from '@mui/icons-material/Instagram'
+import WhatsAppIcon from '@mui/icons-material/WhatsApp'
+import TelegramIcon from '@mui/icons-material/Telegram';
 
 function FooterSite() {
   return (
@@ -37,14 +42,16 @@ function FooterSite() {
           </div>
         </div>
         <Footer.Divider />
-
         <div className="w-full sm:flex sm:items-center sm:justify-between">
           <Footer.Copyright href="#" by="The Smart Project 3.0™" year={2022} />
           <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
- 
+            <InstagramIcon color='action' />
+            <TwitterIcon color='action' />
+            <GitHubIcon color='action' />
+            <WhatsAppIcon color='action' />
+            <TelegramIcon color='action' />
           </div>
         </div>
-
       </div>
     </Footer>
   )
