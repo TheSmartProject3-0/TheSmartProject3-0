@@ -1,4 +1,30 @@
 body {
+  /*#948500*/
   background-color: #111827;
   height: 100vh;
+
+  
+
+  /* ff 3.6+ */
+  background:-moz-radial-gradient(circle at 100% 20%, #020149 0%, #000338 100%);
+
+  /* safari 5.1+,chrome 10+ */
+  background:-webkit-radial-gradient(circle at 100% 20%, #020149 0%, #000338 100%);
+
+  /* opera 11.10+ */
+  background:-o-radial-gradient(circle at 100% 20%, #020149 0%, #000338 100%);
+
+  /* ie 10+ */
+  background:-ms-radial-gradient(circle at 100% 20%, #020149 0%, #000338 100%);
+
+  /* global 92%+ browsers support */
+  background:radial-gradient(circle at 100% 20%, #020149 0%, #000338 100%);
+
+
+}
+
+.form-container {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
 }

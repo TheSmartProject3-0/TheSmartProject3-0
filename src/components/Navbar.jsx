@@ -7,10 +7,9 @@ const NavbarSite = () => {
   return (
     <>
 
-      <Navbar fluid={true}  rounded={true}>
+      <Navbar fluid={true}  rounded={false} className='bg-inherit'>
         <Navbar.Brand href="https://flowbite.com/">
-          <img src="https://flowbite.com/docs/images/logo.svg" className="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
-          <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Flowbite</span>
+          <img src="/src/assets/images/LogoTSP.png" className="mr-3 h-6 sm:h-9" alt="The Smart Project 3.0 Logo" />
         </Navbar.Brand>
         <div className="flex md:order-2">
           <Button>Get started</Button>
@@ -18,9 +17,7 @@ const NavbarSite = () => {
         </div>
         <Navbar.Collapse>
           <NavLink to="/">Home</NavLink>
-          <Navbar.Link href="/navbars">About</Navbar.Link>
           <Navbar.Link href="/services">Services</Navbar.Link>
-          <Navbar.Link href="/navbars">Pricing</Navbar.Link>
           <Navbar.Link href="/contact">Contact</Navbar.Link>
         </Navbar.Collapse>
       </Navbar>
