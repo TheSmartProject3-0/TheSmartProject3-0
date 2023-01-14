@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/TheSmartProject3-0/TheSmartProject3-0",
+  "homepage": "https://thesmartproject3-0.github.io/TheSmartProject3-0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
