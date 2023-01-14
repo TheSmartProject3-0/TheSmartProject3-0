@@ -14,7 +14,7 @@ function App() {
     <>
       <NavbarSite />
       <Routes>
-        <Route path='/' element={ <Home /> } />
+        <Route path='/TheSmartProject3-0' element={ <Home /> } />
         <Route path='/services' element={ <Services /> } />
         <Route path='/contact' element={ <Contact /> } />
       </Routes>
