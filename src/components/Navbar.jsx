@@ -1,12 +1,11 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom';
+import { NavLink, HashRouter } from 'react-router-dom';
 import { Button } from 'flowbite-react/lib/cjs/components/Button';
 import { Navbar } from 'flowbite-react/lib/cjs/components/Navbar';
 
 const NavbarSite = () => {
   return (
     <>
-
       <Navbar fluid={true}  rounded={false} className='bg-inherit'>
         <Navbar.Brand href="https://flowbite.com/">
           <img src="/src/assets/images/LogoTSP.png" className="mr-3 h-6 sm:h-9" alt="The Smart Project 3.0 Logo" />
@@ -17,8 +16,8 @@ const NavbarSite = () => {
         </div>
         <Navbar.Collapse>
           <NavLink to="/">Home</NavLink>
-          <Navbar.Link href="/services">Services</Navbar.Link>
-          <Navbar.Link href="/contact">Contact</Navbar.Link>
+          <NavLink to="/services">Services</NavLink>
+          <NavLink to="/contact">Contact</NavLink>
         </Navbar.Collapse>
       </Navbar>
     </>

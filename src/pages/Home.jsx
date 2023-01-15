@@ -1,8 +1,5 @@
 import React from 'react'
-// import Form from '../components/Form'
-// import LeftCard from '../components/LeftCard'
-// import RightCard from '../components/RightCard'
-// import Carrusel from '../components/Carrusel'
+import { Outlet } from 'react-router-dom'
 import {
   LeftCard,
   RightCard,
@@ -15,6 +12,7 @@ function Home() {
   return (
     <>
       <Hero />
+      <Outlet />
       <Carrusel />
       <RightCard />
       <LeftCard />
