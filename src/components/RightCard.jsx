@@ -13,7 +13,7 @@ function RightCard() {
         component="img"
         alt="green iguana"
         height="140"
-        image="/src/assets/images/vr-3460451R.jpg"
+        image="imagenes/vr-3460451R.jpg"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
